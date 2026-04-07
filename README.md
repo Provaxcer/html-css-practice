@@ -1,2 +1,2 @@
-# html-css-practice
-Basic HTML and CSS practice with small projects and exercises.
+# html-css-bootstrap-basics
+A collection of HTML, CSS, and Bootstrap fundamentals with small projects focused on responsive design and modern UI development.
